@@ -8,7 +8,6 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 ## Icones
 
-<<<<<<< HEAD
 - :package: nova funcionalidade
 - :up: atualização
 - :beetle: correção de bug
